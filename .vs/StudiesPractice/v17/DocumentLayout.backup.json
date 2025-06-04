@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\pages\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\pages\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\pages\\calculatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\pages\\calculatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\calculatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\calculatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\resultspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\resultspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\pages\\calculatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\pages\\calculatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\pages\\resultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\pages\\resultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\pages\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\pages\\resultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\pages\\calculatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\pages\\calculatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\core\\converter\\matrixsizeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\core\\converter\\matrixsizeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\resultspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\resultspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\calculatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\calculatepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\model\\matrixmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\model\\matrixmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\core\\storage\\localstoragesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\core\\storage\\localstoragesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\core\\matrixcalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\core\\matrixcalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\model\\matrixcellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\model\\matrixcellmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\core\\storage\\localstoragesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\core\\storage\\localstoragesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\core\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,6 +61,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\core\\framemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\core\\framemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|solutionrelative:studiespractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2535E320-60BC-4BE8-8391-3BB4B2169AC4}|StudiesPractice\\StudiesPractice.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\studiespractice\\studiespractice\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,37 +86,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "MatrixCellModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Model\\MatrixCellModel.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\Model\\MatrixCellModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Model\\MatrixCellModel.cs",
+              "RelativeToolTip": "StudiesPractice\\Model\\MatrixCellModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:00:34.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CalculatePageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\CalculatePageViewModel.cs",
               "RelativeDocumentMoniker": "StudiesPractice\\ViewModel\\CalculatePageViewModel.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\CalculatePageViewModel.cs",
               "RelativeToolTip": "StudiesPractice\\ViewModel\\CalculatePageViewModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA8wFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:55:31.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:55:31.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MatrixModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Model\\MatrixModel.cs",
-              "RelativeDocumentMoniker": "StudiesPractice\\Model\\MatrixModel.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Model\\MatrixModel.cs",
-              "RelativeToolTip": "StudiesPractice\\Model\\MatrixModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:48:28.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "ResultsPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\ResultsPage.xaml",
               "RelativeDocumentMoniker": "StudiesPractice\\View\\Pages\\ResultsPage.xaml",
@@ -116,19 +126,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "LocalStorageSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
+              "RelativeToolTip": "StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:09:11.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrameManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\FrameManager.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\Core\\FrameManager.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\FrameManager.cs",
+              "RelativeToolTip": "StudiesPractice\\Core\\FrameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:46:20.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CalculatePage.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml",
               "RelativeDocumentMoniker": "StudiesPractice\\View\\Pages\\CalculatePage.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml*",
-              "RelativeToolTip": "StudiesPractice\\View\\Pages\\CalculatePage.xaml*",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml",
+              "RelativeToolTip": "StudiesPractice\\View\\Pages\\CalculatePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-03T12:56:03.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MatrixSizeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\Converter\\MatrixSizeConverter.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\Core\\Converter\\MatrixSizeConverter.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\Converter\\MatrixSizeConverter.cs",
+              "RelativeToolTip": "StudiesPractice\\Core\\Converter\\MatrixSizeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:06:30.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatrixCalculate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\MatrixCalculate.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\Core\\MatrixCalculate.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\MatrixCalculate.cs",
+              "RelativeToolTip": "StudiesPractice\\Core\\MatrixCalculate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:35:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "StudiesPractice\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:53:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatrixModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Model\\MatrixModel.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\Model\\MatrixModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Model\\MatrixModel.cs",
+              "RelativeToolTip": "StudiesPractice\\Model\\MatrixModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:48:28.593Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ResultsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
+              "RelativeToolTip": "StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAASwEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:55:47.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
+              "RelativeDocumentMoniker": "StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
+              "RelativeToolTip": "StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:28:10.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudiesPractice\\View\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "StudiesPractice\\View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T12:42:43.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Windows\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "StudiesPractice\\View\\Windows\\MainWindow.xaml.cs",
@@ -136,37 +256,11 @@
               "RelativeToolTip": "StudiesPractice\\View\\Windows\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:42:42.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:42:42.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultsPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
-              "RelativeDocumentMoniker": "StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
-              "RelativeToolTip": "StudiesPractice\\ViewModel\\ResultsPageViewModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:55:47.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Windows\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "StudiesPractice\\View\\Windows\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Windows\\MainWindow.xaml",
-              "RelativeToolTip": "StudiesPractice\\View\\Windows\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T12:42:43.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "StudiesPractice\\ViewModel\\MainWindowViewModel.cs",
@@ -174,25 +268,11 @@
               "RelativeToolTip": "StudiesPractice\\ViewModel\\MainWindowViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:54:58.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:54:58.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CalculatePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
-              "RelativeDocumentMoniker": "StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
-              "RelativeToolTip": "StudiesPractice\\View\\Pages\\CalculatePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:28:10.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ResultsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\View\\Pages\\ResultsPage.xaml.cs",
               "RelativeDocumentMoniker": "StudiesPractice\\View\\Pages\\ResultsPage.xaml.cs",
@@ -205,20 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LocalStorageSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
-              "RelativeDocumentMoniker": "StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
-              "RelativeToolTip": "StudiesPractice\\Core\\Storage\\LocalStorageSingleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:09:11.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\App.xaml",
               "RelativeDocumentMoniker": "StudiesPractice\\App.xaml",
@@ -226,19 +293,6 @@
               "RelativeToolTip": "StudiesPractice\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-03T12:58:30.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "StudiesPractice\\ViewModel\\BaseViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\ViewModel\\BaseViewModel.cs",
-              "RelativeToolTip": "StudiesPractice\\ViewModel\\BaseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:53:49.955Z",
               "EditorCaption": ""
             },
             {
@@ -251,12 +305,11 @@
               "RelativeToolTip": "StudiesPractice\\Core\\FileManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:51:34.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:51:34.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DelegateCommand.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Command\\DelegateCommand.cs",
               "RelativeDocumentMoniker": "StudiesPractice\\Command\\DelegateCommand.cs",
@@ -264,21 +317,7 @@
               "RelativeToolTip": "StudiesPractice\\Command\\DelegateCommand.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:47:45.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrameManager.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\FrameManager.cs",
-              "RelativeDocumentMoniker": "StudiesPractice\\Core\\FrameManager.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\StudiesPractice\\StudiesPractice\\Core\\FrameManager.cs",
-              "RelativeToolTip": "StudiesPractice\\Core\\FrameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T12:46:20.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T12:47:45.638Z"
             }
           ]
         }

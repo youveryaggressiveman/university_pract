@@ -4,9 +4,13 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:StudiesPractice.View.Pages"
+      xmlns:converter="clr-namespace:StudiesPractice.Core.Converter"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="CalculatePage">
+    <Page.Resources>
+        <converter:MatrixSizeConverter x:Key="MatrixSizeConverter"/>
+    </Page.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="100"/>
@@ -33,11 +37,43 @@
                       Width="200"
                       Margin="20"/>
         </StackPanel>
-        <ScrollViewer Grid.Row="1"
-                      HorizontalScrollBarVisibility="Auto"
-                      VerticalScrollBarVisibility="Auto">
-            
-        </ScrollViewer>
+        <Grid Grid.Row="1" Margin="15">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Viewbox Grid.Column="0" Stretch="Fill" VerticalAlignment="Stretch">
+                <Path Stroke="Black" StrokeThickness="2" Data="M 10,0 C 0,20 0,80 10,100" />
+            </Viewbox>
+            <ScrollViewer Grid.Column="1"
+                  HorizontalScrollBarVisibility="Auto"
+                  VerticalScrollBarVisibility="Auto">
+                <ItemsControl ItemsSource="{Binding Matrix.NumberList}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid Columns="{Binding SelectedSize, Converter={StaticResource MatrixSizeConverter}}" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <TextBox Text="{Binding Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                Margin="5"
+                                x:Name="valueTextBox"
+                                     PreviewTextInput="valueTextBox_PreviewTextInput"
+                                     DataObject.Pasting="valueTextBox_Pasting"
+                                FontSize="16"
+                                HorizontalContentAlignment="Center"
+                                VerticalContentAlignment="Center"
+                                Width="60" Height="40"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+            <Viewbox Grid.Column="2" Stretch="Fill" VerticalAlignment="Stretch">
+                <Path Stroke="Black" StrokeThickness="2" Data="M 0,0 C 10,20 10,80 0,100" />
+            </Viewbox>
+        </Grid>
         <Grid Grid.Row="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
@@ -47,15 +83,27 @@
                        VerticalAlignment="Center"
                        FontSize="18">
                 <Run Text="Результат вычислений:"/>
-                <Run Text="{Binding Result}" FontWeight="Bold"/>
+                <Run Text="{Binding Matrix.Result}" FontWeight="Bold"/>
             </TextBlock>
-            <Button Width="200"
-                    Grid.Column="1"
-                    HorizontalAlignment="Center"
-                    VerticalAlignment="Center"
-                    Command="{Binding Calculate}"
-                    Style="{StaticResource ButtonDanger}"
-                    Content="Расчитать"/>
+            <StackPanel Orientation="Horizontal"
+                        Grid.Column="1"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+                <Button Width="150"
+         HorizontalAlignment="Center"
+         VerticalAlignment="Center"
+                        Margin="20"
+         Command="{Binding Save}"
+         Style="{StaticResource ButtonInfo}"
+         Content="Сохранить"/>
+                <Button Width="150"
+HorizontalAlignment="Center"
+                        Margin="20"
+VerticalAlignment="Center"
+Command="{Binding Calculate}"
+Style="{StaticResource ButtonDanger}"
+Content="Расчитать"/>
+            </StackPanel>
         </Grid>
     </Grid>
 </Page>

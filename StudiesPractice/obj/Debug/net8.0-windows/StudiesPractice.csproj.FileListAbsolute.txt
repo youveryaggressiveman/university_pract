@@ -26,3 +26,5 @@ C:\Users\Админ\source\repos\StudiesPractice\StudiesPractice\obj\Debug\net8.
 C:\Users\Админ\source\repos\StudiesPractice\StudiesPractice\obj\Debug\net8.0-windows\StudiesPractice.pdb
 C:\Users\Админ\source\repos\StudiesPractice\StudiesPractice\obj\Debug\net8.0-windows\StudiesPractice.genruntimeconfig.cache
 C:\Users\Админ\source\repos\StudiesPractice\StudiesPractice\obj\Debug\net8.0-windows\ref\StudiesPractice.dll
+C:\Users\Админ\source\repos\StudiesPractice\StudiesPractice\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Админ\source\repos\StudiesPractice\StudiesPractice\obj\Debug\net8.0-windows\StudiesPractice.sourcelink.json

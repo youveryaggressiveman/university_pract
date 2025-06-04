@@ -49,16 +49,25 @@ namespace StudiesPractice.ViewModel
                     {
                         var splitedMatrix = matrix.Split(", ");
 
-                        var splitedNumber = splitedMatrix[1].Split("$")
-                            .Select(number => decimal.Parse(number))
-                            .ToList();
+                        var splitedNumber = splitedMatrix[1].Split("$");
+                        splitedNumber = splitedNumber.Take(splitedNumber.Length - 1).ToArray();
 
-                        MatrixList.Add(new MatrixModel()
+                        var fullMatrix = new MatrixModel()
                         {
                             Size = splitedMatrix[0],
-                            NumberList = splitedNumber,
+                            NumberList = new(),
                             Result = decimal.Parse(splitedMatrix[2])
-                        });
+                        };
+
+                        foreach (var value in splitedNumber)
+                        {
+                            fullMatrix.NumberList.Add(new MatrixCell()
+                            {
+                                Value = value,
+                            });
+                        }
+
+                        MatrixList.Add(fullMatrix);
                     }
                 }
             }
